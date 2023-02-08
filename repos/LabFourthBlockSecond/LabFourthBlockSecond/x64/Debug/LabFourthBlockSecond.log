@@ -1,0 +1,5 @@
+﻿  LabFourthBlockSecond.cpp
+C:\Users\andre\source\repos\LabFourthBlockSecond\LabFourthBlockSecond\LabFourthBlockSecond.cpp(176,17): warning C4101: colMax: неиспользованная локальная переменная
+C:\Users\andre\source\repos\LabFourthBlockSecond\LabFourthBlockSecond\LabFourthBlockSecond.cpp(177,10): warning C4101: isTrue: неиспользованная локальная переменная
+C:\Users\andre\source\repos\LabFourthBlockSecond\LabFourthBlockSecond\LabFourthBlockSecond.cpp(176,9): warning C4101: rowMin: неиспользованная локальная переменная
+  LabFourthBlockSecond.vcxproj -> C:\Users\andre\source\repos\LabFourthBlockSecond\x64\Debug\LabFourthBlockSecond.exe

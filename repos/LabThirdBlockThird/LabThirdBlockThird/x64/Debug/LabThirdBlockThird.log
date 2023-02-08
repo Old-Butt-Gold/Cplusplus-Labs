@@ -1,0 +1,4 @@
+﻿  LabThirdBlockThird.cpp
+C:\Users\andre\source\repos\LabThirdBlockThird\LabThirdBlockThird\LabThirdBlockThird.cpp(224,48): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\andre\source\repos\LabThirdBlockThird\LabThirdBlockThird\LabThirdBlockThird.cpp(238,36): warning C4551: в вызове функции отсутствует список аргументов
+  LabThirdBlockThird.vcxproj -> C:\Users\andre\source\repos\LabThirdBlockThird\x64\Debug\LabThirdBlockThird.exe
